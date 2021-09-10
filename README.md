@@ -1,2 +1,7 @@
-# CodeHSJavaScriptKarel
-Project for documenting the activities, quizes, and questions for the CodeHS Karel course JavaScript
+# CodeHS Karel JAVA Edition
+
+### Current Version: 0.0.1 (Pre Release)
+
+Project for recording and documenting the CodeHS Karel JavaScript activities and units.
+
+**This project is only to be used for educational purposes.**
